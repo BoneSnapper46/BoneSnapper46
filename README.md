@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoneSnapper46
 - 👀 I’m interested in gaming and meeting new people
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currentlycurrently enrolled to learn full stack web development
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me bonesnapper46@outlook.com
 
